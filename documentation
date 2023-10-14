@@ -1,0 +1,40 @@
+
+##    PROJECT TASK: Deployment Of Vagrant Ubumtu Cluster With Stack
+
+###                   To Use The Script
+
+1  Save the script as project.sh
+
+
+###   The Script Will;
+
+*  Run a Bash Script function To Display Script Usage
+
+*  Generate Vagranrfile For Both Master And Slave VMs
+
+*  Provision  The VMs Using Virtualbox
+
+*  Configure SSH Access Between Master And Slave VMs
+
+*  Create Altschool User On Master With Sudo Priviledges
+
+*  Copy /mnt/altschool/files From Master To mnt/altschool/ Slave On Slave Via SCP As Altschool User
+
+*  Install LAMP sTACK On Both Nodes
+
+*  Secure MySQL Installation
+
+*  Validate PHP Functionalities
+
+* Deploy a Running Process
+
+## Must Have:
+
+1 Vagrant
+
+2 Virtualbox
+
+
+e
+
+
